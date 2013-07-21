@@ -1,5 +1,7 @@
 # Spree Gateway
 
+This fork was made just for the one error with spree-core. I don't think it's a serious error and should be fixed soon. If not, I'll look into it further/make an issue.
+
 [![Build Status](https://secure.travis-ci.org/spree/spree_gateway.png?branch=master)](http://travis-ci.org/spree/spree_gateway)
 
 Community supported Spree Payment Method Gateways.
